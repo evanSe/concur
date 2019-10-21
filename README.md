@@ -1,2 +1,2 @@
 # concur
-Core libary for interfacing with concur system
+Core library for interfacing with the concur system.
